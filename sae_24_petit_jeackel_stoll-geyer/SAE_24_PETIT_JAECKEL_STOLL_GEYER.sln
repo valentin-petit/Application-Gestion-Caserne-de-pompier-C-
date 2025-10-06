@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAE_24_PETIT_JAECKEL_STOLL_GEYER", "SAE_24_PETIT_JAECKEL_STOLL_GEYER\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj", "{C3D50746-8FB5-494C-93D8-BB1298FFC08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3D50746-8FB5-494C-93D8-BB1298FFC08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D50746-8FB5-494C-93D8-BB1298FFC08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D50746-8FB5-494C-93D8-BB1298FFC08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D50746-8FB5-494C-93D8-BB1298FFC08D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16D88253-D685-4481-81B5-1C37A6278452}
+	EndGlobalSection
+EndGlobal

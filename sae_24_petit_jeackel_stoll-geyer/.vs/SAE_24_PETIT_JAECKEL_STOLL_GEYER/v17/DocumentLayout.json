@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D50746-8FB5-494C-93D8-BB1298FFC08D}|SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj|c:\\users\\stoll-geyer yann\\documents\\but\\s2\\sae_24_petit_jeackel_stoll-geyer\\sae_24_petit_jaeckel_stoll_geyer\\frmpompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D50746-8FB5-494C-93D8-BB1298FFC08D}|SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj|solutionrelative:sae_24_petit_jaeckel_stoll_geyer\\frmpompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D50746-8FB5-494C-93D8-BB1298FFC08D}|SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj|C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\sae_24_petit_jaeckel_stoll_geyer\\frmpompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3D50746-8FB5-494C-93D8-BB1298FFC08D}|SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj|solutionrelative:sae_24_petit_jaeckel_stoll_geyer\\frmpompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SAE_24_PETIT_JAECKEL_STOLL_GEYER||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D50746-8FB5-494C-93D8-BB1298FFC08D}|SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj|C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\sae_24_petit_jaeckel_stoll_geyer\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D50746-8FB5-494C-93D8-BB1298FFC08D}|SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj|solutionrelative:sae_24_petit_jaeckel_stoll_geyer\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D50746-8FB5-494C-93D8-BB1298FFC08D}|SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj|C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\sae_24_petit_jaeckel_stoll_geyer\\frmpompier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D50746-8FB5-494C-93D8-BB1298FFC08D}|SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj|solutionrelative:sae_24_petit_jaeckel_stoll_geyer\\frmpompier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPompier.cs",
+              "DocumentMoniker": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.cs",
+              "RelativeDocumentMoniker": "SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.cs",
+              "ToolTip": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.cs",
+              "RelativeToolTip": "SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.cs",
+              "ViewState": "AgIAAMsBAAAAAAAAAAAAwO8BAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:47:22.54Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SAE_24_PETIT_JAECKEL_STOLL_GEYER",
+              "DocumentMoniker": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj",
+              "RelativeDocumentMoniker": "SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj",
+              "ToolTip": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj",
+              "RelativeToolTip": "SAE_24_PETIT_JAECKEL_STOLL_GEYER\\SAE_24_PETIT_JAECKEL_STOLL_GEYER.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T07:08:33.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPompier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.cs",
+              "RelativeDocumentMoniker": "SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.cs",
+              "ToolTip": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.cs [Design]",
+              "RelativeToolTip": "SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:47:18.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPompier.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.Designer.cs",
+              "RelativeDocumentMoniker": "SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.Designer.cs",
+              "ToolTip": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.Designer.cs",
+              "RelativeToolTip": "SAE_24_PETIT_JAECKEL_STOLL_GEYER\\frmPompier.Designer.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:41:15.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\SAE_24_PETIT_JAECKEL_STOLL_GEYER\\Connexion.cs",
+              "RelativeDocumentMoniker": "SAE_24_PETIT_JAECKEL_STOLL_GEYER\\Connexion.cs",
+              "ToolTip": "C:\\Users\\STOLL-GEYER Yann\\Documents\\BUT\\S2\\sae_24_petit_jeackel_stoll-geyer\\SAE_24_PETIT_JAECKEL_STOLL_GEYER\\Connexion.cs",
+              "RelativeToolTip": "SAE_24_PETIT_JAECKEL_STOLL_GEYER\\Connexion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:00:42.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
